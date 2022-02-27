@@ -1,0 +1,19 @@
+.card {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    background-color: antiquewhite;
+    cursor: pointer;
+    margin: 1rem;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    line-height: 100px;
+    text-align: center;
+}
+
+.card:hover {
+    background-color: rgb(163, 144, 119);
+}
